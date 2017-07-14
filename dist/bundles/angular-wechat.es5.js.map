@@ -1,0 +1,1 @@
+{"version":3,"file":"angular-wechat.es5.js","sources":["../../src/lib/index.ts","../../src/lib/public_api.ts"],"sourcesContent":["/**\n * Generated bundle index. Do not edit.\n */\n\nexport {a} from './public_api';\n","export const /** @type {?} */ a = \"a\";"],"names":[],"mappings":";;;;;;;ACAO,MAAM,CAAA,GAAI,GAAA;;ADAjB;;GAEG;;;;"}

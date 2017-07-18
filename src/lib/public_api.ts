@@ -1,1 +1,2 @@
-export const a = "a";
+export * from './module';
+export * from './service';

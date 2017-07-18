@@ -18,7 +18,7 @@ System.config({
     '@angular/platform-browser': 'node:@angular/platform-browser/bundles/platform-browser.umd.js',
     '@angular/platform-browser-dynamic':
       'node:@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js',
-
+    '@angular/wechat': 'dist/bundles/angular-wechat.umd.js',
   },
   packages: {
     // Thirdparty barrels.
